@@ -52,22 +52,22 @@
   }
   .asm-busco_C {
     stroke: rgb(51, 160, 44);
-    stroke-width: 0.5px;
+    stroke-width: 0px;
     fill: rgb(51, 160, 44);
   }
   .asm-busco_F {
     stroke: rgb(178, 223, 138);
-    stroke-width: 0.5px;
+    stroke-width: 0px;
     fill: rgb(178, 223, 138);
   }
   .asm-busco_D {
     stroke: rgb(35, 108, 30);
-    stroke-width: 0.5px;
+    stroke-width: 0px;
     fill: rgb(35, 108, 30);
   }
   .asm-busco_M {
     stroke: rgb(255, 255, 255);
-    stroke-width: 0.5px;
+    stroke-width: 0px;
     fill: rgb(255, 255, 255);
   }
   .asm-ceg_comp {
